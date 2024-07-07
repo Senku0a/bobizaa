@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "212713542982"
+global.botnumber = "212658594530"
 
 global.owner = [
   [212658594530', 'creator', true],
